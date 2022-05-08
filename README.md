@@ -1,6 +1,6 @@
 <h1>Project DoctorCare</h1>
 
-> Status: Developed 
+> Status: Developed ✅
 
 <h2 >Developed together with Rocketseat in NLW 7 </h2>
 
