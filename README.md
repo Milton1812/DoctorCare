@@ -12,4 +12,12 @@
   ## Mobile Version
 ![mobile-version](https://user-images.githubusercontent.com/103965008/167303191-dec24553-c695-4ebf-b7b6-e343cf150864.gif)
 
+ ## Technologies used
+  <ul>
+    <li>HTML
+    <li>CSS
+    <li>JavaScript
+    <li>ScrollReveal
+  <ul>
+
 
